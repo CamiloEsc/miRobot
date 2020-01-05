@@ -1,8 +1,0 @@
-prefix=/home/camilo/miRobot/install
-
-Name: miRobot
-Description: Description of miRobot
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/camilo/miRobot/install/lib 
-Requires: roscpp gazebo_ros
