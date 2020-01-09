@@ -43,7 +43,7 @@ To control the arm you have to built your own applications like "programas"
 The command tu pub over the Kuka youBot through the plugin is e.g: 
 
 
-rostopic pub youbot std_msgs/String "e ../repo/src/miRobot/src/Robot/programas/pick"
+rostopic pub youbot std_msgs/String "e ../miRobot/src/miRobot/src/miRobot/programas/pick"
 
 
 License
